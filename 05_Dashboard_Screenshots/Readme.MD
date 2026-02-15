@@ -1,8 +1,8 @@
 **📊 Dashboard Screenshots ->**
 
-This folder contains visual previews of dashboards developed during the Financial Report Analysis project. These dashboards were designed to transform raw financial data into actionable business insights using industry-standard BI tools.
+• This folder contains visual previews of dashboards developed during the Financial Report Analysis project. These dashboards were designed to transform raw financial data into actionable business insights using industry-standard BI tools.
 
-The screenshots highlight key performance indicators, trend analysis, and customer segmentation used for strategic decision-making.
+• The screenshots highlight key performance indicators, trend analysis, and customer segmentation used for strategic decision-making.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
