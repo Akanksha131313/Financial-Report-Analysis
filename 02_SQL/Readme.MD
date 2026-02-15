@@ -1,8 +1,10 @@
-**SQL Data Analysis Workflow** -
+**SQL Data Analysis Workflow -** 
 
 This folder contains SQL scripts used for extracting, transforming, and analyzing financial loan data. The queries are designed to generate business KPIs, loan performance insights, and analytical summaries.
 
-📌 **Objectives-**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📌 **Objectives -**
 
 • Extract financial loan data from database tables
 
@@ -11,6 +13,8 @@ This folder contains SQL scripts used for extracting, transforming, and analyzin
 • Analyze loan performance and risk categories
 
 • Generate datasets for visualization tools like Power BI / Tableau / Excel 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📂 **File Structure ->**
 
@@ -50,7 +54,9 @@ Performs business analysis and KPI generation.
 
 ⁍ CTAS (Create Table As Select)
 
-🛠 **SQL Concepts Used** -
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🛠 **SQL Concepts Used -**
 
 • Aggregate Functions (SUM, COUNT, AVG)
 
@@ -66,6 +72,8 @@ Performs business analysis and KPI generation.
 
 • Analytical SQL Queries
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📊 **Business Insights Generated -**
 
 • Loan approval trends
@@ -77,6 +85,8 @@ Performs business analysis and KPI generation.
 • Borrower financial behaviour analysis
 
 • Monthly loan performance tracking
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 **Outcome -** 
 
