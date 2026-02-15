@@ -1,4 +1,4 @@
-*SQL Data Analysis Workflow* -
+**SQL Data Analysis Workflow** -
 
 This folder contains SQL scripts used for extracting, transforming, and analyzing financial loan data. The queries are designed to generate business KPIs, loan performance insights, and analytical summaries.
 
