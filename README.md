@@ -5,6 +5,7 @@ An end-to-end Financial Data Analysis project demonstrating real-world analytics
 📊 Financial Report Analysis ->
 
 🔹 Project Overview - 
+
 This project focuses on analyzing financial performance using Python, SQL, Power BI, and Tableau to identify revenue trends, cost drivers, and profitability insights. The goal was to transform raw financial data into actionable business intelligence that supports data-driven decision-making.
 The project demonstrates end-to-end data analytics workflow including:
 	• Data cleaning and preprocessing
@@ -14,6 +15,7 @@ The project demonstrates end-to-end data analytics workflow including:
 	• Business insights generation
 
 🎯 Business Objective -
+
 Organizations generate massive financial data but often struggle to convert it into strategic insights. This project aims to:
 	• Identify revenue and expense trends
 	• Detect profit fluctuations across time periods
@@ -21,6 +23,7 @@ Organizations generate massive financial data but often struggle to convert it i
 	• Support strategic financial planning
 
 🛠️ Tools & Technologies Used -
+
 	• Python (Pandas, NumPy, Matplotlib, Seaborn)
 	• SQL
 	• Power BI
@@ -55,28 +58,37 @@ Financial_Report_Analysis/
 │
 ├── README.md
 
-📈 Project Workflow -
-1️⃣ Data Collection
+📈 Project Workflow ->
+
+1️⃣ Data Collection -
+
 	• Imported financial datasets containing revenue, expenses, and profit metrics.
 	• Combined multiple sources to create a unified dataset.
-2️⃣ Data Cleaning & Preparation
+	
+2️⃣ Data Cleaning & Preparation -
 	• Removed duplicate and missing values.
 	• Standardized financial metrics.
 	• Converted data types and formatted time series fields.
-3️⃣ SQL Analysis
+	
+3️⃣ SQL Analysis -
 	• Extracted relevant financial KPIs.
 	• Performed aggregations to analyze monthly and yearly performance.
 	• Created structured datasets for dashboard integration.
-4️⃣ Exploratory Data Analysis (EDA)
+	
+4️⃣ Exploratory Data Analysis (EDA)-
+
 	• Analyzed revenue distribution and expense patterns.
 	• Identified seasonal financial trends.
 	• Detected anomalies affecting profit margins.
-5️⃣ Dashboard Development
+	
+5️⃣ Dashboard Development -
+
 	• Built interactive Power BI and Tableau dashboards.
 	• Enabled filtering by time, category, and financial metrics.
 	• Created visual storytelling for business stakeholders.
 
 📊 Key Insights -
+
 	• Revenue showed consistent growth but profit margins fluctuated due to rising operational expenses.
 	• Certain categories contributed disproportionately to overall expenses.
 	• Seasonal trends significantly influenced revenue generation.
@@ -84,15 +96,18 @@ Financial_Report_Analysis/
 	• Highlighted high-revenue periods useful for strategic business planning.
 
 💼 Business Impact -
+
 	• Helps stakeholders monitor financial health in real time.
 	• Supports cost optimization strategies.
 	• Enables forecasting using historical trends.
 	• Improves financial transparency through interactive dashboards.
 
 📸 Dashboard Preview -
+
 👉 (Add Power BI & Tableau dashboard screenshots here)
 
 🚀 Future Improvements -
+
 	• Add predictive modeling for revenue forecasting.
 	• Integrate real-time financial data pipelines.
 	• Deploy dashboards for live business monitoring.
