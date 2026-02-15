@@ -2,7 +2,7 @@
 
 This folder contains SQL scripts used for extracting, transforming, and analyzing financial loan data. The queries are designed to generate business KPIs, loan performance insights, and analytical summaries.
 
-📌 Objectives-
+📌 **Objectives-**
 
 • Extract financial loan data from database tables
 
@@ -12,9 +12,9 @@ This folder contains SQL scripts used for extracting, transforming, and analyzin
 
 • Generate datasets for visualization tools like Power BI / Tableau / Excel 
 
-📂 File Structure ->
+📂 **File Structure ->**
 
-1️⃣ Data_Extraction.sql -
+1️⃣ **Data_Extraction.sql** -
 
 Responsible for retrieving raw loan data from database tables.
 
@@ -24,7 +24,7 @@ Responsible for retrieving raw loan data from database tables.
 • Extracting required columns
 • Filtering relevant financial data
 
-2️⃣ Data_Transformation.sql -
+2️⃣ **Data_Transformation.sql** -
 
 Performs business analysis and KPI generation.
 
@@ -44,9 +44,10 @@ Performs business analysis and KPI generation.
 ⁍ Subqueries
 ⁍ CTAS (Create Table As Select)
 
-🛠 SQL Concepts Used -
+🛠 **SQL Concepts Used** -
 
 • Aggregate Functions (SUM, COUNT, AVG)
+
 • CASE Statements
 
 • GROUP BY and HAVING
@@ -59,7 +60,7 @@ Performs business analysis and KPI generation.
 
 • Analytical SQL Queries
 
-📊 Business Insights Generated -
+📊 **Business Insights Generated -**
 
 • Loan approval trends
 
@@ -71,7 +72,7 @@ Performs business analysis and KPI generation.
 
 • Monthly loan performance tracking
 
-🎯 Outcome - 
+🎯 **Outcome -** 
 
 The SQL scripts convert raw loan database records into structured business intelligence metrics that support financial reporting and strategic decision making.
 
