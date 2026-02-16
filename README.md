@@ -12,7 +12,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**🚀 What This Project Demonstrates (Quick Summary)-**
+**🚀 What This Project Demonstrates -**
 
 -> Built an end-to-end loan portfolio analytics framework to:
 
